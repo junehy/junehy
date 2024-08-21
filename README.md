@@ -1,4 +1,4 @@
-## MOVIE PROMOTION(FROZEN) 👋
+## MOVIE PROMOTION(FROZEN) +자기소개 홈페이지 👋
 
 <!--
 **junehy/junehy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
