@@ -1,0 +1,78 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'smile';
+  src: url('THEletssmileL.otf') format('truetype');
+}
+body{
+  font-family: 'smile';
+
+
+
+}
+
+
+#box{
+  background-image:url("alpha.jpg");
+  width: 300px;
+  height: 300px;
+  border: dotted 20px gray;
+ 
+  margin: auto;
+  position: absolute;
+  left:0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 2;
+  margin-top: 100px;
+  transition-property: all;
+  transition-duration: 3s;
+  transition-timing-function: ease;
+  
+}
+
+
+#out{
+  margin: auto;
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left:0;
+  right: 0;
+  top:0;
+  bottom: 0;
+  background-color: aqua;
+  z-index:1 ;
+  margin-top: 70px;
+}
+  
+#pic{ margin: auto;
+  
+  margin-left: 800px;
+ margin-top: 150px;
+ z-index: 3;
+ transition-property: all;
+ transition-duration: 3s;
+ transition-timing-function: ease;
+ transition-delay: 1s;
+ position: absolute;
+}
+
+
+
+li{
+  position: relative;
+  background-color: aquamarine;
+padding: 30px;
+border: solid 5px ivory;
+transition: background-color 3s, margin-left 3s;
+width: 200px;
+
+}
+li:hover{
+  background-color: aqua;
+  margin-left: 10px;
+}
+ul{
+  margin-top: 600px;
+}
