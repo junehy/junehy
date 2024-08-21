@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Movie Promotion(Frozen) **프로젝트 소개**
+## Movie Promotion(Frozen) **프로젝트 소개**
 
 개인 웹 프로그래밍 프로젝트의 일환으로 만든 겨울왕국 홍보 웹 페이지 입니다.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 그 동안 대학에서 웹 프로그래밍 시간에 배운 경험과 독학을 바탕으로 제작한 프로젝트입니다.
 
-##**기능**
+## **기능**
 
 HTML, CSS ,JS를 통한 다양한 이벤트 구현(백그라운드 영상, 눈 효과, 마우스 이벤트, 음악 삽입, 사진 팝업 등등)
 
